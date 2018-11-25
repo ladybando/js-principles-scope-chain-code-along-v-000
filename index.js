@@ -14,8 +14,6 @@ function overWriteBestCustomer(){
   bestCustomer = 'maybe bob';
 }
 
-var leastFavorite = 'maybe bob';
-
-function changeLeastFavoriteCustomer(){
+sfunction changeLeastFavoriteCustomer(){
   leastFavorite = 'definitely';
 }
