@@ -1,6 +1,7 @@
 /* Your code goes here */
 var customerName = 'bob';
 const leastFavorite = 'maybe bob';
+let favoriteCustomer = 'bob'
 
 
 function upperCaseCustomerName(){
