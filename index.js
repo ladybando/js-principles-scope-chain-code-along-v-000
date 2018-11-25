@@ -1,7 +1,6 @@
 /* Your code goes here */
 var customerName = 'bob';
 const leastFavorite = 'maybe bob';
-let favoriteCustomer = 'bob';
 
 
 function upperCaseCustomerName(){
@@ -21,6 +20,6 @@ function changeLeastFavoriteCustomer(){
 }
 
 function attemptTwoFavoriteCustomers(){
-  
+  let favoriteCustomer = 'bob';
   let favoriteCustomer = 'not bob';
 }
