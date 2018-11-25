@@ -7,7 +7,7 @@ function upperCaseCustomerName(){
 
 
 function setBestCustomer(){
-  bestCustomer = `not `${customerName}``;
+  bestCustomer = 'not bob';
 }
 
 function overWriteBestCustomer(){
@@ -19,5 +19,5 @@ function leastFavorite(){
 }
 
 function reassignLeastFavorite(){
-  leastFavorite = 'definitely bob'
+  leastFavorite = 'definitely'
 }
