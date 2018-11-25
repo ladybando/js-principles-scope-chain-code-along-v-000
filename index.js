@@ -18,6 +18,6 @@ function leastFavorite(){
   leastFavorite = 'maybe bob';
 }
 
-function reassignLeastFavorite(){
+function changeLeastFavorite(){
   leastFavorite = 'definitely'
 }
