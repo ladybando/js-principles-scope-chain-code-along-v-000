@@ -19,5 +19,5 @@ function leastFavorite(){
 }
 
 function changeLeastFavoriteCustomer(){
-  leastFavorite = 'definitely'
+  leastFavorite = 'definitely';
 }
